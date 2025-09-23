@@ -1,0 +1,129 @@
+leftnav:
+- identifier: fa363464-0657-27c0-7fed-f7ec09c2e95f
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 00c0bcfd-0dae-62aa-223f-607ebd39a0db
+  name: Schedule of Activities
+  pageRef: /pages/schedule-of-activities/
+  weight: 20
+- identifier: f5b33ce0-5532-9818-ad03-984101ab334b
+  name: Turing
+  pageRef: /pages/schedule-of-activities/turing-suggests-test-for-success
+  parent: 00c0bcfd-0dae-62aa-223f-607ebd39a0db
+  weight: 30
+- identifier: 4864188c-7847-6a40-6ad4-09784089d669
+  name: Minsky
+  pageRef: /pages/schedule-of-activities/minsky-provides-a-problem-set
+  parent: 00c0bcfd-0dae-62aa-223f-607ebd39a0db
+  weight: 40
+- identifier: ed1f9868-2deb-d3ae-8fcd-50fce84c1176
+  name: Davis, Brooks
+  pageRef: /pages/schedule-of-activities/davis-and-friends-affirm-value-of-representations-brooks-denies-value-of-representations
+  parent: 00c0bcfd-0dae-62aa-223f-607ebd39a0db
+  weight: 50
+- identifier: 2a5c3934-decf-ceca-2169-651477f69920
+  name: Marr
+  pageRef: /pages/schedule-of-activities/marr-speaks-to-what-constitutes-good-work
+  parent: 00c0bcfd-0dae-62aa-223f-607ebd39a0db
+  weight: 60
+- identifier: baa1caee-2792-4085-76d6-cd05836ca5d2
+  name: Tenenbaum, Glymour
+  pageRef: /pages/schedule-of-activities/tenenbaum-and-friends-salute-the-reverend-bayes-glymour-salutes-kepler
+  parent: 00c0bcfd-0dae-62aa-223f-607ebd39a0db
+  weight: 70
+- identifier: f5ac1217-d0de-e761-2f4b-2acedcc63f38
+  name: Hinton
+  pageRef: /pages/schedule-of-activities/hinton-launches-third-wave
+  parent: 00c0bcfd-0dae-62aa-223f-607ebd39a0db
+  weight: 80
+- identifier: bc81f38b-601b-0bcd-b2a7-29868fd8e6ef
+  name: Borchardt
+  pageRef: /pages/schedule-of-activities/borchardt-focuses-on-transitions
+  parent: 00c0bcfd-0dae-62aa-223f-607ebd39a0db
+  weight: 90
+- identifier: 8d4dbc2f-45f1-af9d-b1b6-0e7a4a573ac1
+  name: Jackendoff
+  pageRef: /pages/schedule-of-activities/jackendoff-grounds-out-in-trajectories
+  parent: 00c0bcfd-0dae-62aa-223f-607ebd39a0db
+  weight: 100
+- identifier: 34bf9baf-a2b0-ce7e-03e9-b6c60ab5c129
+  name: Ullman
+  pageRef: /pages/schedule-of-activities/ullman-explains-visual-routines
+  parent: 00c0bcfd-0dae-62aa-223f-607ebd39a0db
+  weight: 110
+- identifier: 6db94f31-1d4b-ddfc-0d27-513e8727aa1a
+  name: Larson
+  pageRef: /pages/schedule-of-activities/larson-grounds-symbols-in-perception
+  parent: 00c0bcfd-0dae-62aa-223f-607ebd39a0db
+  weight: 120
+- identifier: e3a6794e-19e1-eea1-8a1a-b1547f39de3b
+  name: Spelke, Fedorenko
+  pageRef: /pages/schedule-of-activities/spelke-explains-how-to-turn-mit-students-into-rats-fedorenko-explains-we-dont-need-language-to-think
+  parent: 00c0bcfd-0dae-62aa-223f-607ebd39a0db
+  weight: 130
+- identifier: 9b0a73d5-674c-471b-54aa-40065538602e
+  name: Berwick & Chomsky
+  pageRef: /pages/schedule-of-activities/berwick-chomsky-explain-how-we-are-different
+  parent: 00c0bcfd-0dae-62aa-223f-607ebd39a0db
+  weight: 140
+- identifier: 019bc567-b1e2-764e-4c5b-3700d1a4bddf
+  name: Tattersall, Lettvin
+  pageRef: /pages/schedule-of-activities/tattersall-finds-symbolic-species-lettvin-finds-bug-detector
+  parent: 00c0bcfd-0dae-62aa-223f-607ebd39a0db
+  weight: 150
+- identifier: dc769ccb-825b-fc12-85a2-1d6fc43c058b
+  name: Minsky (II)
+  pageRef: /pages/schedule-of-activities/minsky-predicts-important-role-for-perception
+  parent: 00c0bcfd-0dae-62aa-223f-607ebd39a0db
+  weight: 160
+- identifier: dd6dd280-8f29-5a66-9a1d-2e62e6a51e89
+  name: McIntyre
+  pageRef: /pages/schedule-of-activities/mcintyre-builds-contortionist
+  parent: 00c0bcfd-0dae-62aa-223f-607ebd39a0db
+  weight: 170
+- identifier: be3305d1-cd79-ceef-2cb4-d572cbaa0203
+  name: Gergely
+  pageRef: /pages/schedule-of-activities/gergely-learns-from-an-infant
+  parent: 00c0bcfd-0dae-62aa-223f-607ebd39a0db
+  weight: 180
+- identifier: f5debc9f-c892-25b3-88d6-83bbddf18348
+  name: Minsky (III)
+  pageRef: /pages/schedule-of-activities/minsky-gets-emotional
+  parent: 00c0bcfd-0dae-62aa-223f-607ebd39a0db
+  weight: 190
+- identifier: 1d728160-30da-44ae-91bf-62f8a1b83ebf
+  name: Winston & Holmes
+  pageRef: /pages/schedule-of-activities/winston-holmes-tell-a-story
+  parent: 00c0bcfd-0dae-62aa-223f-607ebd39a0db
+  weight: 200
+- identifier: 95fee7d1-ffce-cdbf-0fb1-b992ee84bf9b
+  name: Ajemian
+  pageRef: /pages/schedule-of-activities/ajemian-detangles-neural-nets/
+  parent: 00c0bcfd-0dae-62aa-223f-607ebd39a0db
+  weight: 210
+- identifier: e629bc27-940e-34a4-6037-37911fd5c1d0
+  name: Presentations
+  pageRef: /pages/schedule-of-activities/presentations/
+  parent: 00c0bcfd-0dae-62aa-223f-607ebd39a0db
+  weight: 220
+- identifier: 0fd1fce4-e622-7f05-d117-58a07d8a416c
+  name: Course Readings
+  pageRef: /pages/course-readings
+  weight: 230
+- identifier: f11d1cd8-c1e2-6993-ddbe-fa729ac42db3
+  name: Supplementary Readings
+  pageRef: /pages/supplementary-readings
+  weight: 240
+- identifier: 4ee5a88f-71c2-1530-8d74-0bcac7f725da
+  name: Final Project
+  pageRef: /pages/final-project
+  weight: 250
+- identifier: be97edc6-c5d1-bdab-3dc7-bc44be0c4c40
+  name: Style Guide
+  pageRef: /pages/style-guide
+  weight: 260
+- identifier: 8476dba8-5e92-b1e6-b09a-74239ce1028c
+  name: Grading Marks
+  pageRef: /pages/grading-marks
+  weight: 270

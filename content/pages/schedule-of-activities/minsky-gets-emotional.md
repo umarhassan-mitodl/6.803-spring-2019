@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: ''
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Schedule of Activities
@@ -13,11 +15,11 @@ uid: f5debc9f-c892-25b3-88d6-83bbddf18348
 Paper
 -----
 
-Marvin Minsky, _The Emotion Machine_ {{% resource_link "2a19f401-660f-44f2-aee7-79c4b6a46a89" "Part IV" %}}
+Marvin Minsky, _The Emotion Machine_ [Part IV](http://web.media.mit.edu/~minsky/eb4.html)
 
 Estimated reading time: 55 min
 
-Marvin Minsky, _The Emotion Machine_ {{% resource_link "038b7362-ec9a-4362-9e52-8fa33df3f608" "Part V" %}}
+Marvin Minsky, _The Emotion Machine_ [Part V](http://web.media.mit.edu/~minsky/eb5.html)
 
 Estimated reading time: 45 min
 

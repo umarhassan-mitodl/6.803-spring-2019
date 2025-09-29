@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: ''
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Schedule of Activities
@@ -13,7 +15,7 @@ uid: 2a5c3934-decf-ceca-2169-651477f69920
 Paper
 -----
 
-{{% resource_link "2795baaa-2ae9-48a5-b5a2-da4e3b6ccaa2" "\"Artificial Intelligence—a personal view\" (PDF)" %}} by David Marr
+["Artificial Intelligence—a personal view" (PDF)](https://cbmm.mit.edu/sites/default/files/documents/marr.pdf) by David Marr
 
 Estimated reading time: 30 min
 

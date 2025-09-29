@@ -27,6 +27,7 @@
     "website": "6-803-the-human-intelligence-enterprise-spring-2019"
   },
   "course_title": "The Human Intelligence Enterprise",
+  "hide_download": true,
   "course_description": "This course analyzes seminal work directed at the development of a computational understanding of human intelligence, such as work on learning, language, vision, event representation, commonsense reasoning, self reflection, story understanding, and analogy. It reviews visionary ideas of Turing, Minsky, and other influential thinkers and examines the implications of work on brain scanning, developmental psychology, and cognitive psychology. There is an emphasis on discussion and analysis of original papers; students taking the graduate version complete additional exercises and a substantial term project.\n",
   "department_numbers": [
     "6"
@@ -37,6 +38,7 @@
     "content": "0651461f-6ff8-6923-a3b9-14b5bd8165cc",
     "website": "6-803-the-human-intelligence-enterprise-spring-2019"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Written Assignments"
   ],

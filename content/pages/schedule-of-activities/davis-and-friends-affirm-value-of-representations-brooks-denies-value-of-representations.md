@@ -13,11 +13,11 @@ uid: ed1f9868-2deb-d3ae-8fcd-50fce84c1176
 Papers
 ------
 
-{{% resource_link "a2c2a1ef-8776-42d1-8631-dd4ec1267ecf" "\"Intelligence without Representation\" (PDF)" %}} by Rodney A. Brooks
+["Intelligence without Representation" (PDF)](https://people.csail.mit.edu/brooks/papers/representation.pdf) by Rodney A. Brooks
 
 Estimated reading time: 45 min
 
-{{% resource_link "fcb3ce97-9c55-4859-a0af-0a44f063a8ad" "\"What Is a Knowledge Representation?\"" %}} by Randall Davis, Howard Shrobe, and Peter Szolovits.
+["What Is a Knowledge Representation?"](https://groups.csail.mit.edu/medg/ftp/psz/k-rep.html) by Randall Davis, Howard Shrobe, and Peter Szolovits.
 
 Estimated reading time: 50 min
 

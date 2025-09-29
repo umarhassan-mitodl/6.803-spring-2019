@@ -48,7 +48,7 @@ Part II
 
 This part of the assignment is due at the final class; however, we will not be looking for it until Friday, or some other negotiated date.
 
-You have just decided to apply for something that requires you to submit recommendations. You know you can rely on your {{% resource_link "2c3008bd-b1bb-4224-bc36-736d152b85cf" "UROP" %}} supervisor to help out, and your advisor, once prompted with your name, will scribble out something _pro forma_ and pretty much useless, as all s/he can do is recite your transcript and say that s/he has never observed you do drugs in her/his presence. Alas, the application asks for three recommendations.
+You have just decided to apply for something that requires you to submit recommendations. You know you can rely on your [UROP](https://urop.mit.edu/) supervisor to help out, and your advisor, once prompted with your name, will scribble out something _pro forma_ and pretty much useless, as all s/he can do is recite your transcript and say that s/he has never observed you do drugs in her/his presence. Alas, the application asks for three recommendations.
 
 Fortunately, you took 6.803, so you know Winston maintains a dossier of your 6.803 work. Also, the dossier is augmented from time to time as you send him notes describing how you are progressing through life and how 6.803 has been of use. Accordingly, you send Winston the following note:
 

@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: ''
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Schedule of Activities
@@ -13,7 +15,7 @@ uid: dd6dd280-8f29-5a66-9a1d-2e62e6a51e89
 Paper
 -----
 
-"{{% resource_link "52ea2a35-187a-4d66-997a-dd2fb4e3915d" "Recognizing actions using embodiment and empathy" %}}" by Robert McIntyre
+"[Recognizing actions using embodiment and empathy](https://dspace.mit.edu/handle/1721.1/91697)" by Robert McIntyre
 
 Assignment
 ----------

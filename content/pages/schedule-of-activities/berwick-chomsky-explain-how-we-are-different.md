@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: ''
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Schedule of Activities
@@ -13,11 +15,11 @@ uid: 9b0a73d5-674c-471b-54aa-40065538602e
 Paper
 -----
 
-Chapter 1 of {{% resource_link "723a058e-3dfa-46f4-8b40-432ed256880d" "![Buy at MIT Press](/images/mp_logo.gif)" %}} _Why Only Us: Language and Evolution_, reprint edition, Robert C. Berwick and Noam Chomsky. MIT Press, 2017. ISBN: 9780262533492.
+Chapter 1 of [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262533492) _Why Only Us: Language and Evolution_, reprint edition, Robert C. Berwick and Noam Chomsky. MIT Press, 2017. ISBN: 9780262533492.
 
 Estimated reading time: 1.75 hrs
 
-For guidance on interviews, you might look at a 2050 {{% resource_link "483c7425-0967-4bb5-86bf-2aae7314de4e" "interview with Sarah Winston" %}}, former President of the United States.
+For guidance on interviews, you might look at a 2050 [interview with Sarah Winston](http://people.csail.mit.edu/phw/interview.html), former President of the United States.
 
 Assignment
 ----------

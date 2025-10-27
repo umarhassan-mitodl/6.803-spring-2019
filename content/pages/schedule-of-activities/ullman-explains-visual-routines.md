@@ -13,7 +13,7 @@ uid: 34bf9baf-a2b0-ce7e-03e9-b6c60ab5c129
 Paper
 -----
 
-"Visual Cognition and Visual Routines" (Chapter 9 in [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262710077) _[High Level Vision](https://mitpress.mit.edu/books/high-level-vision)_) by Shimon Ullman
+"Visual Cognition and Visual Routines" (Chapter 9 in {{% resource_link "3908de5d-74ba-4b9a-a6fd-0fab0408d2c6" "![Buy at MIT Press](/images/mp_logo.gif)" %}} _{{% resource_link "fb238a57-ff22-4ad9-9a2c-53c2d5907c43" "High Level Vision" %}}_) by Shimon Ullman
 
 Estimated reading time: 1.5 hours
 

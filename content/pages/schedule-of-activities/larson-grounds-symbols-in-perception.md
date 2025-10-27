@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: ''
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Schedule of Activities
@@ -15,19 +13,19 @@ uid: 6db94f31-1d4b-ddfc-0d27-513e8727aa1a
 Papers
 ------
 
-["Intrinsic Representation: Bootstrapping Symbols From Experience" (PDF)](https://cbmm.mit.edu/sites/default/files/documents/larson.pdf) by Stephen Larson
+{{% resource_link "4457eb67-209c-4b57-953e-a755f87eff7a" "\"Intrinsic Representation: Bootstrapping Symbols From Experience\" (PDF)" %}} by Stephen Larson
 
-["Hippocampal Place Cells Recorded in the Wilson Lab at MIT"](https://video.search.yahoo.com/video/play;_ylt=A0LEVjDpif1UD1wAITMlnIlQ;_ylu=X3oDMTB0dmRibmhwBHNlYwNzYwRjb2xvA2JmMQR2dGlkA1lIUzAwMV8x?p=mit+wilson+rat&tnr=21&vid=503432B5CD3384DF76AB503432B5CD3384DF76AB&l=76&turl=http%3A%2F%2Fts4.mm.bing.net%2Fth%3Fid%3DUN.607991396209918443%26pid%3D15.1&sigi=11r44s3s8&rurl=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DlfNVv0A8QvI&sigr=11aierv59&tt=b&tit=Hippocampal+place+cells+recorded+in+the+Wilson+lab+at+MIT&sigt=11p8mjh9h&back=https%3A%2F%2Fsearch.yahoo.com%2Fyhs%2Fsearch%3Fp%3Dmit%2Bwilson%2Brat%2Bvideo%26hsimp%3Dyhs-002%26hspart%3Dmozilla%26ei%3DUTF-8&sigb=1307sesuq&hspart=mozilla&hsimp=yhs-002&guccounter=1&guce_referrer=aHR0cDovL2NvdXJzZXMuY3NhaWwubWl0LmVkdS82LjgwMy9sYXJzb24uaHRtbA&guce_referrer_sig=AQAAAGFSwLxL3HFb16bAGz-sBUU4iLZqwH_Z0bQHHWuqWLlPsCnPWDUsP6Po4dlkS5_bM-X-zzDttLvOYqGYyhBLpyJdNaCTAgmJtYYNzLxJw2s6XnQunqkgJ-CuSEpdnP7tBTz0nq8WrMTkUXsLYw_6S8hkmxbyLH2x0T3bZCQKFb-L) (video) by Matt Wilson 
+{{% resource_link "2573a87a-573f-42fd-831f-2ab542dbd109" "\"Hippocampal Place Cells Recorded in the Wilson Lab at MIT\"" %}} (video) by Matt Wilson 
 
 ### Optional Supplement
 
 Larson's paper is a shorter version of his MEng thesis. The following link is only for those who are eager to learn more about self-organizing maps or who want to see an example of a premium MEng thesis. The thesis includes very clear descriptions of the algorithms used in map adjustment, growing, clustering, and cross-domain cluster association:
 
-["Intrinsic Representation: Bootstrapping Symbols From Experience" (PDF)](http://groups.csail.mit.edu/genesis/papers/Larson2003.pdf) by Stephen Larson.
+{{% resource_link "81c08100-05e5-43ce-94dc-effebbf550cc" "\"Intrinsic Representation: Bootstrapping Symbols From Experience\" (PDF)" %}} by Stephen Larson.
 
 The rat video is illustrative of a great deal of work, of which the following is an example:
 
-["Biasing the content of hippocampal replay during sleep"](https://www.researchgate.net/publication/230783354_Biasing_the_content_of_hippocampal_replay_during_sleep) by David J. Foster and Matthew A Wilson
+{{% resource_link "1f153a6f-95e3-4c42-bd5f-f8434c060d50" "\"Biasing the content of hippocampal replay during sleep\"" %}} by David J. Foster and Matthew A Wilson
 
 Assignment
 ----------

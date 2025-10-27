@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: ''
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Schedule of Activities
@@ -18,11 +16,11 @@ Paper
 
 Core of the assignment:
 
-"[Sources of flexibility in human cognition: dual-task studies of space and language](https://www.ncbi.nlm.nih.gov/pubmed/10433786)" by Linda Hermer-Vazquez, Elizabeth S. Spelke, and Alla S. Katsnelson.
+"{{% resource_link "ab88fdb4-0047-4fa9-9b3d-05a849d2b846" "Sources of flexibility in human cognition: dual-task studies of space and language" %}}" by Linda Hermer-Vazquez, Elizabeth S. Spelke, and Alla S. Katsnelson.
 
 Estimated reading time: 1.5 hours
 
-"[Language and thought are not the same thing: evidence from neuroimaging and neurological patients](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4874898/)" by Evelina Fedorenko and Rosemary Varley
+"{{% resource_link "58e912d8-44f2-403c-8a8e-11b3cd379851" "Language and thought are not the same thing: evidence from neuroimaging and neurological patients" %}}" by Evelina Fedorenko and Rosemary Varley
 
 Estimated reading time: 1.0 hours
 
@@ -33,7 +31,7 @@ Assignment
 
 On a total of one side of one sheet of paper, using 10 pt type or larger, with standard interline spacing and margins, respond to all the following:
 
-Planning ahead for fall, Winston has decided to continue the tradition of "[Right Now](http://web.mit.edu/fnl/volume/254/winston.html)" speakers who talk about their recent work. One of those speakers will be either Spelke (you are to imagine she just finished her paper) or Fedorenko.
+Planning ahead for fall, Winston has decided to continue the tradition of "{{% resource_link "95535023-f692-4d70-bd26-0dcc32b4de3c" "Right Now" %}}" speakers who talk about their recent work. One of those speakers will be either Spelke (you are to imagine she just finished her paper) or Fedorenko.
 
 He supposes that the best way to decide would be to read through the two papers. Unfortunately, he is too busy. He asks you to send a recommendation via email using the following template:
 

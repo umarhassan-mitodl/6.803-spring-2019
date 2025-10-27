@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: ''
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Schedule of Activities
@@ -15,7 +13,7 @@ uid: 1d728160-30da-44ae-91bf-62f8a1b83ebf
 Paper
 -----
 
-"[The Genesis Enterprise: Taking Artificial Intelligence to another Level via a Computational Account of Human Story Understanding](https://dspace.mit.edu/handle/1721.1/119651)" by Patrick Henry Winston and Dylan Holmes
+"{{% resource_link "c7850817-2218-49f2-b011-5e5f6346d15c" "The Genesis Enterprise: Taking Artificial Intelligence to another Level via a Computational Account of Human Story Understanding" %}}" by Patrick Henry Winston and Dylan Holmes
 
 But read the assignment first.
 
@@ -26,7 +24,7 @@ Assignment
 
 On a total of one side of one sheet of paper, using 10 pt type or larger, with standard interline spacing and margins, respond to all the following:
 
-The Dean of the new [Schwartzman College of Computing](https://computing.mit.edu/) has decided to have a roadshow that will run in Paris, Moscow, Mumbai, Singapore, Beijing, and other places with a high density of investors and philanthropists. You are Dylan Holmes, one of 100 students asked to prepare a poster for a poster session.
+The Dean of the new {{% resource_link "73bbca7c-cd5b-4263-b38c-167b2f8fb3cd" "Schwartzman College of Computing" %}} has decided to have a roadshow that will run in Paris, Moscow, Mumbai, Singapore, Beijing, and other places with a high density of investors and philanthropists. You are Dylan Holmes, one of 100 students asked to prepare a poster for a poster session.
 
 Alas, you, Holmes, are helping Professor Winston with 6.803, and you do not have time. He asks you for help.
 

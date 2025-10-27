@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: A description of the final project for 6.833.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

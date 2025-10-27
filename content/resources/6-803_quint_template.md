@@ -4,8 +4,6 @@ description: ''
 file: /courses/6-803-the-human-intelligence-enterprise-spring-2019/c33b6c87dcb4e062c17531e04dd187ca_6.803_quint_template.odp
 file_size: 167903
 file_type: application/vnd.oasis.opendocument.presentation
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

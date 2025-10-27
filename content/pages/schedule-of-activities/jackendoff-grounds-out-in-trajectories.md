@@ -13,7 +13,7 @@ uid: 8d4dbc2f-45f1-af9d-b1b6-0e7a4a573ac1
 Paper
 -----
 
-"Semantics of Spatial Expressions" (Chapter 9 of [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262600132)  _[Semantics and Cognition](https://mitpress.mit.edu/books/semantics-and-cognition)_) by Ray Jackendoff
+"Semantics of Spatial Expressions" (Chapter 9 of {{% resource_link "bf5df9f8-96b0-43ed-ae7f-8ccbb698289a" "![Buy at MIT Press](/images/mp_logo.gif)" %}}  _{{% resource_link "4833ff53-9427-41d6-8556-0467b9620575" "Semantics and Cognition" %}}_) by Ray Jackendoff
 
 Estimated reading time: 1 hour
 
@@ -26,7 +26,7 @@ On a total of one side of one sheet of paper, using 10 pt type or larger, with s
 
 {{< resource "1b03f723-045e-6950-3c1a-c3de94c49623" >}}
 
-Sveti Stefan. (Image courtesy of [Michael Jackson](https://www.flickr.com/photos/128134748@N04/15804431195/) on Flickr. License: CC BY-NC-SA.)
+Sveti Stefan. (Image courtesy of {{% resource_link "294bf4c6-e290-4ad6-a70e-4387290a9d5f" "Michael Jackson" %}} on Flickr. License: CC BY-NC-SA.)
 
 Imagine that you are a graduate student working in Artificial Intelligence at MIT. Your research supervisor, Patrick Winston, says, roughly, “I would like you to go to this conference to see what this stuff is all about and whether it is relevant to my work on story understanding. Put together a little trip report for me when you get back.” Because the conference is to be held in Sveti Stefan, a beautiful medieval town, converted into a resort, on the Adriatic Sea, you instantly agree.
 

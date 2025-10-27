@@ -13,7 +13,7 @@ uid: be3305d1-cd79-ceef-2cb4-d572cbaa0203
 Paper
 -----
 
-"[What should a robot learn from an infant? Mechanisms of action interpretation and observational learning in infancy](https://www.researchgate.net/publication/28763919_What_should_a_robot_learn_from_an_infant_Mechanisms_of_action_interpretation_and_observational_learning_in_infancy)" by György Gergely.
+"{{% resource_link "daaa7c88-0435-40de-811f-50db276dee8b" "What should a robot learn from an infant? Mechanisms of action interpretation and observational learning in infancy" %}}" by György Gergely.
 
 Estimated reading time: 50 minutes
 
@@ -47,7 +47,7 @@ Assignment
 
 On a total of one side of one sheet of paper, using 10 pt type or larger, with standard interline spacing and margins, respond to all the following:
 
-Suspending disbelief, imagine that Patrick Winston has become Director of [DARPA](https://www.darpa.mil/). He has announced that robots are too stupid, and he invites potential “performers” to submit suggestions on what could be done in the form of a quad or quint chart.
+Suspending disbelief, imagine that Patrick Winston has become Director of {{% resource_link "18986088-f7c9-4648-95bc-5b016190071c" "DARPA" %}}. He has announced that robots are too stupid, and he invites potential “performers” to submit suggestions on what could be done in the form of a quad or quint chart.
 
 You decide to suggest a program of research base on Gergely's work. Construct a quad or quint chart. Use your imagination to concoct milestones or end-of-phase goals; try to include combinations of the ideas in the paper with other salient ideas in the subject.
 

@@ -13,11 +13,11 @@ uid: baa1caee-2792-4085-76d6-cd05836ca5d2
 Paper
 -----
 
-["How to Grow a Mind: Statistics, Structure, and Abstraction"](https://www.ncbi.nlm.nih.gov/pubmed/21393536) by Joshua Tenenbaum, Charles Kemp, Thomas Griffiths, and Noah Goodman
+{{% resource_link "f7f5379c-01a6-4144-a41e-788bc71d4811" "\"How to Grow a Mind: Statistics, Structure, and Abstraction\"" %}} by Joshua Tenenbaum, Charles Kemp, Thomas Griffiths, and Noah Goodman
 
 Estimated reading time: 1.0 hours
 
-["Bayesian Ptolemaic Psychology" (PDF)](https://perception.jhu.edu/chaz/teaching/courses/tp/files/readings/7/Glymour_2007___Bayesian_ptolemaic_psychology.pdf) by Clark Glymour
+{{% resource_link "9aa9853b-8b95-47df-9ba2-d9d9b464c938" "\"Bayesian Ptolemaic Psychology\" (PDF)" %}} by Clark Glymour
 
 Estimated reading time: 45 min, without following the probabilistic calculations step by step
 
@@ -28,7 +28,7 @@ Assignment
 
 On a total of one side of one sheet of paper, using 10 pt type or larger, with standard interline spacing and margins, respond to all the following:
 
-Winston has grown tired of the "[Right Now](http://web.mit.edu/fnl/volume/254/winston.html)" lectures in 6.034 and decides to try panel discussions instead. The first of these panel discussions, an experiment, will pit Joshua Tenenbaum against Clark Glymour.
+Winston has grown tired of the "{{% resource_link "95535023-f692-4d70-bd26-0dcc32b4de3c" "Right Now" %}}" lectures in 6.034 and decides to try panel discussions instead. The first of these panel discussions, an experiment, will pit Joshua Tenenbaum against Clark Glymour.
 
 There will be no opening statements and no slides. Instead, the panelists will just respond to questions put to them by Winston, who will moderate.
 

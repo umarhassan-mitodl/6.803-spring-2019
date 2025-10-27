@@ -30,4 +30,4 @@ If we are to capture human learning and cognition, we must envision the exotic a
     *   Self-organizing maps
     *   Decision trees.
 
-(C) 2019 Dylan Holmes. This work is not covered by MIT OpenCourseWare's Creative Commons license but is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International License. To view a copy of this license, visit [https://creativecommons.org/licenses/by-nd/4.0/](https://creativecommons.org/licenses/by-nd/4.0/).
+(C) 2019 Dylan Holmes. This work is not covered by MIT OpenCourseWare's Creative Commons license but is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International License. To view a copy of this license, visit {{% resource_link "f8bbfe59-842d-40db-9b79-26e2652706ab" "https://creativecommons.org/licenses/by-nd/4.0/" %}}.

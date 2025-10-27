@@ -13,9 +13,9 @@ uid: 019bc567-b1e2-764e-4c5b-3700d1a4bddf
 Papers
 ------
 
-["An Evolutionary Framework for the Acquisition of Symbolic Cognition by _Homo sapiens_" (PDF)](http://comparative-cognition-and-behavior-reviews.org/wp/wp-content/uploads/2013/10/vol_3_tattersall.pdf) by Ian Tattersall
+{{% resource_link "36707daa-b749-426d-986d-6c8643d6bc17" "\"An Evolutionary Framework for the Acquisition of Symbolic Cognition by _Homo sapiens_\" (PDF)" %}} by Ian Tattersall
 
-["What the Frog's Eye Tells the Frog's Brain" (PDF)](https://neuromajor.ucr.edu/courses/WhatTheFrogsEyeTellsTheFrogsBrain.pdf) by J. Y. Lettvin, H. R. Maturana, W. S. McCulloch, and W. H. Pitts
+{{% resource_link "42fb55d1-8f50-4539-97fa-b62dc273ac0e" "\"What the Frog's Eye Tells the Frog's Brain\" (PDF)" %}} by J. Y. Lettvin, H. R. Maturana, W. S. McCulloch, and W. H. Pitts
 
 Just read I.A and VIII, about 2 pages, to get the flavor of what Lettvin discovered about frogs.
 
